@@ -7,7 +7,7 @@
 | 2591320 | Nguyễn Thành Quí |
 
 ## Đề bài tập
-![Probem](Problem.png)
+![Probem](/images/Problem.png)
 ## Hình ảnh quá trình huấn luyện mô hình
 
 ![training process 1](/images/training_process_1.png)
